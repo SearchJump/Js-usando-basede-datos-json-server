@@ -1,0 +1,32 @@
+{
+  "productos": [
+    {
+      "nombre": "Producto 1",
+      "precio": 100,
+      "descripcion": "Descripción del producto 1"
+    },
+    {
+      "nombre": "Producto 2",
+      "precio": 200,
+      "descripcion": "Descripción del producto 2"
+    }
+  ],
+  "marcas": [
+    {
+      "nombre": "Marca 1",
+      "pais_origen": "España"
+    },
+    {
+      "nombre": "Marca 2",
+      "pais_origen": "Francia"
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Categoría 1"
+    },
+    {
+      "nombre": "Categoría 2"
+    }
+  ]
+}
